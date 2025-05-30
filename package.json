@@ -1,0 +1,22 @@
+{
+  "name": "wms-darkside",
+  "displayName": "WMS DarkSide",
+  "description": "cool black theme to real gangsta",
+  "version": "0.0.1",
+  "repository": {"url": "https://github.com/ShitCodeTech/WMSAwesomeTheme"},
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WebMindStudioTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WebMindStudioTheme-color-theme.json"
+      }
+    ]
+  }
+}
