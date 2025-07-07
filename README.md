@@ -1,7 +1,12 @@
-<h1 align="center">🖤🔥 Black/Red Theme for Visual Studio Code 🔥🖤</h1>
+<h1 align="center">🖤🔥 WebMindStudioTheme for Visual Studio Code 🔥🖤</h1>
 
 <p align="center">
-  <strong>A sleek, high-contrast dark theme with bold black and red accents for Visual Studio Code.</strong>
+  <strong>A dark, elegant, high-contrast theme with refined black and red accents. Perfect for night coding and a sleek cyberpunk aesthetic.</strong>
+</p>
+
+<p>
+  <strong>Editor View</strong><br>
+  <img src="assets/image.png" alt="Editor screenshot" style="max-width: 100%; margin-bottom: 20px;">
 </p>
 
 ---
@@ -9,31 +14,53 @@
 <h2>✨ Features</h2>
 
 <ul>
-  <li>Deep black background for reduced eye strain</li>
-  <li>Striking red highlights for syntax and UI elements</li>
-  <li>Optimized for readability and a hacker/cyberpunk aesthetic</li>
-  <li>Supports popular languages: JavaScript, Python, TypeScript, HTML, CSS, and more</li>
+  <li>Deep near-black backgrounds (#0a0a0a, #0f0f0f) reduce eye strain</li>
+  <li>Vibrant red highlights (#ca3e47) for UI focus and syntax accents</li>
+  <li>Subtle cool grays (#8F93A2, #212121) balance the palette</li>
+  <li>Professional design for JavaScript, Python, HTML, CSS, TypeScript, and more</li>
+  <li>OLED-friendly deep blacks, minimalist styling</li>
+</ul>
+
+---
+
+<h2>🎨 Color Palette</h2>
+
+<ul>
+  <li><strong>Primary Backgrounds:</strong> #0a0a0a, #0f0f0f</li>
+  <li><strong>Selection / Panels:</strong> #212121, #262626</li>
+  <li><strong>Accent Red:</strong> #ca3e47 (buttons, borders, activity bar, highlights)</li>
+  <li><strong>Foreground:</strong> #8F93A2 (text), #d7d7d7 (source)</li>
+  <li><strong>Comments:</strong> #696969 (italic)</li>
+  <li><strong>Syntax Highlights:</strong>
+    <ul>
+      <li>Keywords / Tags: #fc618d</li>
+      <li>Functions / Entities: #7bd88f</li>
+      <li>Constants / Numbers: #af98e6</li>
+      <li>Strings: #e3cf65</li>
+      <li>Variables / Members: #d7d7d7</li>
+    </ul>
+  </li>
 </ul>
 
 ---
 
 <h2>🛠️ Installation</h2>
 
-<h3>1️⃣ Install via .vsix file</h3>
+<h3>1️⃣ Install via .vsix File</h3>
 <ol>
-  <li>Download the latest <code>.vsix</code> release from the <a href="https://github.com/ShitCodeTech/wms-darkside/releases/tag/release">GitHub Releases</a> page.</li>
-  <li>In VSCode, open the command palette (<code>Ctrl+Shift+P</code>).</li>
+  <li>Download the latest <code>.vsix</code> release from the <a href="https://github.com/ShitCodeTech/wms-darkside/tag/releases">GitHub Releases</a>.</li>
+  <li>In VSCode, open the Command Palette (<code>Ctrl+Shift+P</code>).</li>
   <li>Run <strong>Extensions: Install from VSIX...</strong>.</li>
-  <li>Select the downloaded <code>.vsix</code> file.</li>
-  <li>Activate the theme via <strong>Preferences → Color Theme</strong>.</li>
+  <li>Select your downloaded <code>.vsix</code> file.</li>
+  <li>Apply via <strong>Preferences → Color Theme</strong>.</li>
 </ol>
 
-<h3>2️⃣ Manual Build from Source</h3>
+<h3>2️⃣ Build & Install Manually</h3>
 <ol>
-  <li>Clone this repository:</li>
-  <pre><code>git clone https://github.com/YOUR_GITHUB_REPO.git</code></pre>
+  <li>Clone the repository:</li>
+  <pre><code>git clone https://github.com/ShitCodeTech/wms-darkside.git</code></pre>
   <li>Navigate to the folder:</li>
-  <pre><code>cd YOUR_THEME_FOLDER</code></pre>
+  <pre><code>cd wms-darkside</code></pre>
   <li>Install dependencies (if needed):</li>
   <pre><code>npm install</code></pre>
   <li>Package the extension:</li>
@@ -43,19 +70,9 @@
 
 ---
 
-<h2>🎨 Color Palette</h2>
-<ul>
-  <li><strong>Background:</strong> #000000 (pure black)</li>
-  <li><strong>Primary Red:</strong> #FF0000</li>
-  <li><strong>Accent Red:</strong> #E60000</li>
-  <li><strong>Subtle Grays:</strong> #222, #444, #666 for contrast</li>
-</ul>
-
----
-
-<h2>💡 Why Choose Black/Red?</h2>
+<h2>💡 Why Choose WebMindStudioTheme?</h2>
 <p>
-  This theme is crafted for developers who want a dramatic, high-contrast, minimalist aesthetic with rich red accents. Perfect for late-night coding, OLED screens, or anyone who loves a hacker/cyberpunk vibe.
+  WebMindStudioTheme is for developers who want a sleek, modern, high-contrast environment without blinding brightness. Its deep blacks save your eyes (and your OLED screen). The accent red (#ca3e47) provides focus cues without overwhelming. Carefully balanced grays ensure excellent readability.
 </p>
 
 ---
@@ -69,11 +86,11 @@
 
 <h2>🤝 Contributing</h2>
 <p>
-  Suggestions, bug reports, and pull requests are welcome!
+  Feedback and pull requests are welcome!
 </p>
 
 ---
 
 <p align="center">
-  <strong>🌌 Enjoy coding in style with the Black/Red Theme! 🌌</strong>
+  <strong>🌌 Transform your coding experience with WebMindStudioTheme! 🌌</strong>
 </p>
