@@ -48,7 +48,7 @@
 
 <h3>1️⃣ Install via .vsix File</h3>
 <ol>
-  <li>Download the latest <code>.vsix</code> release from the <a href="https://github.com/ShitCodeTech/wms-darkside/tag/releases">GitHub Releases</a>.</li>
+  <li>Download the latest <code>.vsix</code> release from the <a href="https://github.com/ShitCodeTech/wms-darkside/releases">GitHub Releases</a>.</li>
   <li>In VSCode, open the Command Palette (<code>Ctrl+Shift+P</code>).</li>
   <li>Run <strong>Extensions: Install from VSIX...</strong>.</li>
   <li>Select your downloaded <code>.vsix</code> file.</li>
