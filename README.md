@@ -6,7 +6,7 @@
 
 <p>
   <strong>Editor View</strong><br>
-  <img src="assets/image.png" alt="Editor screenshot" style="max-width: 100%; margin-bottom: 20px;">
+  <img src="assets/editor.png" alt="Editor screenshot" style="max-width: 100%; margin-bottom: 20px;">
 </p>
 
 ---
